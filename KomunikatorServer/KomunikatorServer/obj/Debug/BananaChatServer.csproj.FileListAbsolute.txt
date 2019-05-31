@@ -1,0 +1,7 @@
+C:\Users\DMFN\source\repos\KomunikatorServer\KomunikatorServer\bin\Debug\KomunikatorServer.exe.config
+C:\Users\DMFN\source\repos\KomunikatorServer\KomunikatorServer\bin\Debug\KomunikatorServer.exe
+C:\Users\DMFN\source\repos\KomunikatorServer\KomunikatorServer\bin\Debug\KomunikatorServer.pdb
+C:\Users\DMFN\source\repos\KomunikatorServer\KomunikatorServer\obj\Debug\BananaChatServer.csprojAssemblyReference.cache
+C:\Users\DMFN\source\repos\KomunikatorServer\KomunikatorServer\obj\Debug\BananaChatServer.csproj.CoreCompileInputs.cache
+C:\Users\DMFN\source\repos\KomunikatorServer\KomunikatorServer\obj\Debug\KomunikatorServer.exe
+C:\Users\DMFN\source\repos\KomunikatorServer\KomunikatorServer\obj\Debug\KomunikatorServer.pdb

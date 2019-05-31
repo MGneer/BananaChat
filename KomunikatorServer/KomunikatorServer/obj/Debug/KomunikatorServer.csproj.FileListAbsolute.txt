@@ -1,0 +1,2 @@
+C:\Users\DMFN\source\repos\KomunikatorServer\KomunikatorServer\obj\Debug\KomunikatorServer.csprojAssemblyReference.cache
+C:\Users\DMFN\source\repos\KomunikatorServer\KomunikatorServer\obj\Debug\KomunikatorServer.csproj.CoreCompileInputs.cache

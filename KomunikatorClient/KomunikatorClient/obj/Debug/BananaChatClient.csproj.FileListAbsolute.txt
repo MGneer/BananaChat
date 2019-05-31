@@ -1,0 +1,7 @@
+C:\Users\DMFN\source\repos\KomunikatorClient\KomunikatorClient\bin\Debug\KomunikatorClient.exe.config
+C:\Users\DMFN\source\repos\KomunikatorClient\KomunikatorClient\bin\Debug\KomunikatorClient.exe
+C:\Users\DMFN\source\repos\KomunikatorClient\KomunikatorClient\bin\Debug\KomunikatorClient.pdb
+C:\Users\DMFN\source\repos\KomunikatorClient\KomunikatorClient\obj\Debug\BananaChatClient.csproj.CoreCompileInputs.cache
+C:\Users\DMFN\source\repos\KomunikatorClient\KomunikatorClient\obj\Debug\KomunikatorClient.exe
+C:\Users\DMFN\source\repos\KomunikatorClient\KomunikatorClient\obj\Debug\KomunikatorClient.pdb
+C:\Users\DMFN\source\repos\KomunikatorClient\KomunikatorClient\obj\Debug\BananaChatClient.csprojAssemblyReference.cache
